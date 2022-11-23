@@ -1,8 +1,8 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+<https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif>
 <h1 align="center">Hi 👋, I'm Lalit Kumar Yadav</h1>
 <h3 align="center">I am learning like coding , Ai ,means learning stage</h3>
 
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 - 🌱 I’m currently learning **Coding like ,c++ ,java ,python and some Ai project**
 
