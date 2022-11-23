@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar Yadav</h1>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
+<h3 align="center">I am learning like coding , Ai ,means learning stage</h3>
+<https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif</h3>
 
 - 🌱 I’m currently learning **Coding like ,c++ ,java ,python and some Ai project**
 
